@@ -17,8 +17,6 @@ class PRN(object):
     # Resolution of input and output image size.
     self.resolution_input = 256
     self.resolution_output = 256
-    self.rr = 100
-    fkds;kf;d
     # Load detectors
     if is_Dlib:
       import dlib
